@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+<head>
+    <title>Eimee - Ferdinand Ensemble</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+    <style>
+        @keyframes heartbeat {
+            0% {
+                transform: scale(.9);
+            }
+
+            10% {
+                transform: scale(1);
+            }
+
+            20% {
+                transform: scale(.9);
+            }
+
+            70% {
+                transform: scale(.9);
+            }
+
+            80% {
+                transform: scale(1);
+            }
+
+            100% {
+                transform: scale(.9);
+            }
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Dancing Script', cursive;
+            color: #F2D3D6;
+            -webkit-text-stroke: 1px black;
+        }
+
+        .background {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            overflow: hidden;
+            opacity: 0.1;
+        }
+
+        .icon-wrapper {
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            top: 20vh;
+            position: relative;
+        }
+
+.title {
+    font-size: 6em;
+}
+
+.sub-title {
+    font-size: 3em;
+}
+
+        .snavel {
+            margin-top: 3em;
+            width: auto;
+            animation: heartbeat 1.5s infinite;
+        }
+    </style>
+</head>
+
+<body>
+    <img class="background" src="walk.jpg">
+
+    <div class="icon-wrapper">
+        <span class="title">Eimee</span>
+        <span class="sub-title">2021</span>
+        <div>
+            <img class="snavel" src="Ferdinand-logo-snavel.svg" />
+        </div>
+    </div>
+</body>
+
+</html>

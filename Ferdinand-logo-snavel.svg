@@ -1,0 +1,28 @@
+<svg width="173.9" height="171.9" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#FCD1EC;}
+	.st1{fill:#F2D3D6;}
+	.st2{fill:#F2D3D6;}
+	.st3{fill:none;stroke:#103189;stroke-width:5;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#14638E;stroke-width:3;stroke-miterlimit:10;}
+	.st7{fill:#EAC3D6;}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="173.9" width="175.9" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Laag_1">
+   <path id="svg_2" d="m274,167.4" class="st1"/>
+   <path id="svg_3" d="m3,168.4c93,0 168.4,-75.4 168.4,-168.4l-144.4,0c20,92 -24,168.4 -24,168.4z" class="st2"/>
+   <path id="svg_4" d="m232,329" class="st2"/>
+   <path id="svg_6" d="m347.8,365.6" class="st4"/>
+   <path id="svg_16" d="m407.4,272.1" class="st3"/>
+   <path id="svg_20" d="m54,501" class="st5"/>
+   <path id="svg_21" d="m538.5,265" class="st6"/>
+   <path id="svg_22" d="m475.9,248.6" class="st7"/>
+  </g>
+ </g>
+</svg>
